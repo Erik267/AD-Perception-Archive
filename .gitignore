@@ -1,0 +1,13 @@
+# Ignore downloaded repos and raw PDFs
+repos/
+raw_papers/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# (Optional) Ignore large HTML files if you don't want them in the repo
+# *.html
