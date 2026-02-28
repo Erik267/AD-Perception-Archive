@@ -11,3 +11,9 @@ __pycache__/
 
 # (Optional) Ignore large HTML files if you don't want them in the repo
 # *.html
+
+# Internal Gemini Files
+GEMINI.md
+RolePrompt.md
+Skills.md
+*.png
