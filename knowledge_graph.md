@@ -28,7 +28,8 @@
 - [RenderOcc (CVPR'24)](./archive/02_MultiView/2026-02-28-RenderOcc-CVPR2024-论文速读.md) - 2D 渲染监督 3D。
 - [SurroundOcc (ICCV'23)](./archive/02_MultiView/2026-02-28-SurroundOcc-ICCV2023-论文速读.md) - 3D 空间交叉注意力。
 - [FB-OCC (CVPR'24)](./archive/02_MultiView/2026-02-28-FB-OCC-CVPR2024-论文速读.md) - 前向-后向双向变换。
-
+- [OccSora (CVPR'25)](./archive/02_MultiView/2026-03-02-OccSora-CVPR2025-论文速读.md) - 4D 世界生成与占用图。
+- [GaussianOcc (CVPR'25)](./archive/02_MultiView/2026-03-02-GaussianOcc-CVPR2025-论文速读.md) - 高斯泼溅高精占用图。
 ---
 
 ## 🟡 Level 03: 端到端感知与规划 (已完成)
@@ -38,7 +39,10 @@
 - [DriveTransformer (ICLR'25)](./archive/03_EndToEnd/2026-02-27-DriveTransformer-ICLR2025-论文速读.md) - 并行可扩展架构。
 - [BridgeAD (CVPR'25)](./archive/03_EndToEnd/2026-02-28-BridgeAD-CVPR2025-论文速读.md) - 多步 Query 时序对齐。
 - [Hydra-MDP (CVPR'24)](./archive/03_EndToEnd/2026-02-28-Hydra-MDP-CVPR2024-论文速读.md) - 多头蒸馏规则规划。
-
+- [V-AD v3 (CVPR'25)](./archive/03_EndToEnd/2026-03-02-V-AD-v3-CVPR2025-论文速读.md) - 大模型驱动规划。
+- [SparseAD-v2 (2025)](./archive/03_EndToEnd/2026-03-02-SparseAD-v2-2025-论文速读.md) - 极致稀疏实时规划。
+- [DriveWorld (CVPR'25)](./archive/03_EndToEnd/2026-03-02-DriveWorld-CVPR2025-论文速读.md) - 时序世界模型预测。
+- [GenAD (CVPR'25)](./archive/03_EndToEnd/2026-03-02-GenAD-CVPR2025-论文速读.md) - 生成式端到端驱动。
 ---
 
 ## 🔴 Level 04: Vision-Language-Action (VLA) (已完成)
@@ -60,3 +64,5 @@
 - [DriveDreamer4D (CVPR'25)](./archive/05_SimGen/2026-02-27-DriveDreamer4D-CVPR2025-论文速读.md) - 自动驾驶数据机器。
 - [Vista (NeurIPS'24)](./archive/05_SimGen/2026-02-28-Vista-NeurIPS2024-论文速读.md) - 长时序高保真世界模型。
 - [MagicDrive (ICLR'24)](./archive/05_SimGen/2026-02-28-MagicDrive-ICLR2024-论文速读.md) - 3D 几何硬控街景生成。
+- [TrajEdit (ICLR'25)](./archive/05_SimGen/2026-03-02-TrajEdit-ICLR2025-论文速读.md) - 闭环轨迹编辑增强。
+- [DriveArena (2025)](./archive/05_SimGen/2026-03-02-DriveArena-2025-论文速读.md) - 多智能体闭环仿真平台。
