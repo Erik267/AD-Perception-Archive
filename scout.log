@@ -1,0 +1,4 @@
+  File "/home/lichong.i/code/paper/stealth_scout.py", line 14
+    f.write(f"# 2026-03-03 AD-Perception 预扫描报告
+            ^
+SyntaxError: unterminated string literal (detected at line 14)
