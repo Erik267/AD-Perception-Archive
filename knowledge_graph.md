@@ -7,6 +7,7 @@
 ---
 
 ## 🟢 Level 01: 单目感知 (已完成)
+- [SC-Lane (ICCV'25)](./archive/01_Monocular/2026-03-03-SC-Lane-ICCV2025-论文速读.md) - 坡度感知 3D 车道线检测。
 - [MonoDETR (ICCV'23)](./archive/01_Monocular/2026-02-27-MonoDETR-ICCV2023-论文速读.md) - 深度引导 Query。
 - [MonoCon (CVPR'22)](./archive/01_Monocular/2026-02-27-MonoCon-CVPR2022-论文速读.md) - 8角点几何约束。
 - [BEV-LaneDet (CVPR'23)](./archive/01_Monocular/2026-02-27-BEV-LaneDet-CVPR2023-论文速读.md) - 物理对齐标杆。
@@ -30,6 +31,11 @@
 - [FB-OCC (CVPR'24)](./archive/02_MultiView/2026-02-28-FB-OCC-CVPR2024-论文速读.md) - 前向-后向双向变换。
 - [OccSora (CVPR'25)](./archive/02_MultiView/2026-03-02-OccSora-CVPR2025-论文速读.md) - 4D 世界生成与占用图。
 - [GaussianOcc (CVPR'25)](./archive/02_MultiView/2026-03-02-GaussianOcc-CVPR2025-论文速读.md) - 高斯泼溅高精占用图。
+- [MGMapNet (ICLR'25)](./archive/02_MultiView/2025-03-10-MGMapNet-ICLR2025-论文速读.md) - 多粒度查询解决点线拓扑拉扯。
+- [InteractionMap (CVPR'25)](./archive/02_MultiView/2025-03-10-InteractionMap-CVPR2025-论文速读.md) - 几何感知对齐与时空交互。
+- [MapDR (CVPR'25)](./archive/02_MultiView/2025-03-10-MapDR-CVPR2025-论文速读.md) - 视觉语言驱动的规则车道关联。
+- [TopoBDA (2026)](./archive/02_MultiView/2026-03-20-TopoBDA-Neurocomputing-论文速读.md) - 贝塞尔可变形注意力拓扑提取。
+- [UIGenMap (CVPR'25)](./archive/02_MultiView/2025-03-10-UIGenMap-CVPR2025-论文速读.md) - 不确定性感知生成式地图构建。
 ---
 
 ## 🟡 Level 03: 端到端感知与规划 (已完成)
